@@ -1,0 +1,1 @@
+mkdir -p src/app src/components/shared src/components/teacher src/components/student src/store src/lib src/styles
